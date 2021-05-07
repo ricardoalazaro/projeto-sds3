@@ -1,0 +1,10 @@
+postgres://
+jeppyadkjhlrnq
+:
+b1fe3597885289e8ca6ba83222d886acf3b430ada175f9fa77b0124a0ee040eb
+@
+ec2-18-215-111-67.compute-1.amazonaws.com
+:
+5432
+/
+dea828hisqaamb
